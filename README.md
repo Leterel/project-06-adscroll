@@ -2,7 +2,7 @@
 
 Erster eigener Test: [Kurzanleitung](ERSTTEST.md).
 
-[Aktuelle Offline-Demo und Quellen herunterladen](https://github.com/Leterel/adscroll/releases/tag/v0.1.0-build.20261025).
+[Aktuelle Offline-Demo und Quellen herunterladen](https://github.com/Leterel/project-06-adscroll/releases/tag/v0.1.0-build.20261025).
 Datierter Vorab-Build bei unverändertem APK-Versionsnamen 0.1.0; ältere Downloads
 bleiben erhalten. Keine echten Anzeigen oder Einnahmen in der Demo.
 
@@ -27,7 +27,7 @@ Netzwerkverbindung, Berechtigungen oder Einnahmen. Wischen nach oben/unten,
 Tastatur und Accessibility-Scrollaktionen wechseln Karten. Rotation und
 Hintergrund behalten die aktuelle Position. Der Feed baut keine wachsende Liste auf.
 
-Öffentliches Repository: https://github.com/Leterel/adscroll.
+Öffentliches Repository: https://github.com/Leterel/project-06-adscroll.
 Android 8+, APK `adscroll-0.1.0.apk`, lokale Entwicklungssignatur.
 
 ## Bauen und testen
