@@ -82,3 +82,7 @@ Die vom Nutzer genannte Konzeptdatei wurde gelesen:
 `Y:/KONZEPTE/01 NICHT ARBEIT/DESKTOP/♪♫/Adscroll/README.md`.
 Sie bleibt am ursprünglichen Ort unverändert. Gesprächsangebote in dieser Datei
 gehören zum alten Konzepttext und sind keine neuen Arbeitsaufträge.
+
+## Entwicklung und Übergabe
+
+[AGENTS.md](AGENTS.md) bündelt den Einstieg für Entwickler und KI-Agenten; [TESTING.md](TESTING.md) nennt reproduzierbare Prüfungen und deren Grenzen. Der aktuelle Übergabestand steht in [HANDOFF.md](HANDOFF.md).
